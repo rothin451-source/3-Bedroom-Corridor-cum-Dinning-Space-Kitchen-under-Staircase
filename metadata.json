@@ -1,0 +1,6 @@
+{
+  "name": "ArchPlan 2D/3D House Studio",
+  "description": "Interactive 2D architectural floor plan and 3D Three.js cutaway visualizer for a 3-bedroom residence with centered south entry, dining corridor, and east-facing kitchen under a roof staircase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
